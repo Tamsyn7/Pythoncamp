@@ -1,0 +1,5 @@
+#get sequence
+import sys
+import string
+seq1 = GGAATTCCTTA
+
